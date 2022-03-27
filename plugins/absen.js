@@ -22,7 +22,7 @@ ${conn.absen[id][2]}
 ├ Total: ${absen.length}
 ${list} 
 └────`.trim()
-    await conn.send2Button(m.chat, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Absen', `${usedPrefix}absen`, 'Cek', `${usedPrefix}cekabsen`, m)
+    await conn.send2Button(m.chat, caption, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Absen', `${usedPrefix}absen`, 'Cek', `${usedPrefix}cekabsen`, m)
 }
 handler.help = ['absen']
 handler.tags = ['absen']
