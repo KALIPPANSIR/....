@@ -1,5 +1,5 @@
 let handler = async (m, { conn }) => {
-  conn.sendFile(m.chat, API('mel', '/asupan', {}, 'apikey'), 'asupan.mp4', '© ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3')
+  conn.sendFile(m.chat, API('mel', '/asupan', {}, 'apikey'), 'asupan.mp4', '© ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2')
 }
 handler.help = ['asupan']
 handler.tags = ['fun']
