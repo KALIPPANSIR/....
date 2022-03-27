@@ -37,7 +37,7 @@ Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-Midhunx3/Kalippanser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALIPPANSIR/APARNA-MWOL-V2.git)
 
 
 
