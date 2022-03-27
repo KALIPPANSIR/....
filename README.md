@@ -1,75 +1,104 @@
-# NANDHUTTY-V3
+<div align="center">
+  <p align="center">
+<img src=https://www.linkpicture.com/q/IMG_20220314_143049.png>
+</p>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KALIPPANSER+WA+BOT+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+
+ </a>
+</p>
+
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/a5476198bcf35794b7953.jpg" width="200" height="200"/>
-
-<p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <p align="center">
+<img src=https://www.linkpicture.com/q/20220313_142355_1.jpg>
 </p>
 
-
-## ```HOW TO DEPLOY```
-`WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
-
-[`Click Here For Tutorial`](https://youtu.be/bb2YfTT4Hv4)
-
-----------
-
+  <p align="center">
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MIDHUN/KALIPPAN-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
 <p align="center">
-  <a href="https://youtu.be/bb2YfTT4Hv4"><img src="https://telegra.ph/file/1b06aa3851c72d40f7a8f.jpg" />
+  <a href="https://instagram.com/_midhun_x3__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+</a>
+<p align="center">
+Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
 
--------
+## SETUP
+<div align="center"> 
 
 
-## `SCAN QR`
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
-
-## `DEPLOY`
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty-V3.git) 
-----------
-
-
-## `CHANGE DYNO`
-
-`TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
-
-<p align="center">
-  <a href="https://github.com/Ajmal-Achu"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
-</p>
-
-
-## Developers
-  <div align="center">
+  ### SIMPLE METHOD
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
-----|
-   `Base, Bug Fixes, Modules`
-
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![D-3-V-1-L](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/D-3-V-1-L)[`D-3-V-1-L`](https://github.com/D-3-V-1-L)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
-----|
-   `Bug Fixes, Modules`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-Midhunx3/Kalippanser.git)
 
 
-                                  
-  </div
+
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
+  
+### THE HARD METHOD
+```js
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
+$ cd KALIPPAN-ser
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node julie.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
+$ cd KALIPPAN-SER
+$ npm i
+$ node julie.js
+```
+
+----
+
+  <p align="center">
+  <a href="https://github.com/Kalippan-Midhunx3/Kalippanser/followers">
+    
+<a href="https://github.com/Kalippan-Midhunx3/">
+<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/Kalippan-Midhunx3/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/Kalippanser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/Kalippanser"><img title="Forks" src="https://img.shields.io/github/forks/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/Kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalippan-Midhunx3/Kalippanser?label=Watchers&color=blue&style=flat-square"></a>
+</p>
+<div align="center">
+    
+### ⚠ WARING ⚠
+
+```
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+
+```
+## DEVELOPERS
+  <div align="center">
+    
+  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|---
+[Midhunser](https://github.com/kalippan-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
+    
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
