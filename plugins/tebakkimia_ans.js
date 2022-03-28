@@ -13,7 +13,7 @@ handler.before = async function (m) {
         if (['.teka', 'Help', ''].includes(m.text)) return !0
         if (m.text.toLowerCase() == json.unsur.toLowerCase().trim()) {
             db.data.users[m.sender].exp += this.tebakkimia[id][2]
-            await this.sendButton(m.chat, benar + ` +${this.tebakkimia[id][2]} XP`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess Chemistry', '.tebakkimia', m)
+            await this.sendButton(m.chat, benar + ` +${this.tebakkimia[id][2]} XP`, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Guess Chemistry', '.tebakkimia', m)
             clearTimeout(this.tebakkimia[id][3])
             delete this.tebakkimia[id]
         } else if (similarity(m.text.toLowerCase(), json.unsur.toLowerCase().trim()) >= threshold) m.reply(dikit)
