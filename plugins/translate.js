@@ -8,7 +8,7 @@ Use:
 ${usedPrefix + command} <language> [text]
 
 Example :
-${usedPrefix + command} en Nous aimons tous Nandhutty
+${usedPrefix + command} en Nous aimons tous Aparna mwol
 
 List of supported languages:
 ${bahasa.map(v => `${v.code} : ${v.country}`).join`\n`}
