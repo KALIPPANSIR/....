@@ -10,7 +10,7 @@ key : {
                             surface : 2022,
                             message: '「 All Group Broadcast 」',
                             orderTitle: 'B',
-                            thumbnail: fs.readFileSync('./src/icon1.jpg'), 
+                            thumbnail: fs.readFileSync('./src/icon2.jpg'), 
                             sellerJid: '0@s.whatsapp.net'
 
                           }
