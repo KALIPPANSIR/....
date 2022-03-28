@@ -18,7 +18,7 @@ Type ${usedPrefix}teli for help
 Bonus: ${poin} XP
 `.trim()
     conn.tebaklirik[id] = [
-        await conn.sendButton(m.chat, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', `.teli`, m),
+        await conn.sendButton(m.chat, caption, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Help', `.teli`, m),
         json, poin,
         setTimeout(() => {
             if (conn.tebaklirik[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is *${json.jawaban}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess the Lyrics', `.tebaklirik`, conn.tebaklirik[id][0])
