@@ -8,7 +8,7 @@ let handler = async(m, { conn, args, usedPrefix, command }) => {
   let json = await res.json()
   if (!json.status) throw json
   await m.reply(wait)
-  await conn.sendFile(m.chat, json.data.sd.url, '', `HD: ${json.data.hd.url}\nSize: ${json.data.hd.size}\n\n © ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3`, m)
+  await conn.sendFile(m.chat, json.data.sd.url, '', `HD: ${json.data.hd.url}\nSize: ${json.data.hd.size}\n\n © ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2`, m)
 }
 handler.help = ['fb'].map(v => v + ' <url>')
 handler.tags = ['downloader']
