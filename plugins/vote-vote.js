@@ -24,9 +24,9 @@ ${upvote.map(u => '@' + u.split`@`[0]).join('\n')}
 _Total: ${devote.length}_
 ${devote.map(u => '@' + u.split`@`[0]).join('\n')}
 
-ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3
+ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2
     `.trim()
-    conn.send2Button(m.chat, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Upvote', `${usedPrefix}upvote`, 'Devote', `${usedPrefix}devote`, m)
+    conn.send2Button(m.chat, caption, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Upvote', `${usedPrefix}upvote`, 'Devote', `${usedPrefix}devote`, m)
 }
 handler.help = ['upvote', 'devote']
 handler.tags = ['vote']
