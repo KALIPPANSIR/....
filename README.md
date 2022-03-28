@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
 <img 
-src="" alt="GIF" width="2.35" height="1"/>
+src="tenor.gif" alt="GIF" width="2.35" height="1"/>
 </p>
 
 
