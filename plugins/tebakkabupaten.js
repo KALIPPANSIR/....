@@ -19,7 +19,7 @@ Bonus: ${poin} XP
         await conn.sendButtonImg(m.chat, json.url, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', '.teka', m),
         json, poin,
         setTimeout(() => {
-            if (conn.tebakkabupaten[id]) conn.sendButton(m.chat, `Time has run out!\nThe answer is *${json.title}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess the District', '.tebakkabupaten', conn.tebakkabupaten[id][0])
+            if (conn.tebakkabupaten[id]) conn.sendButton(m.chat, `Time has run out!\nThe answer is *${json.title}*`, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Guess the District', '.tebakkabupaten', conn.tebakkabupaten[id][0])
             delete conn.tebakkabupaten[id]
         }, timeout)
     ]
