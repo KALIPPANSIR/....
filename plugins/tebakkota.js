@@ -18,10 +18,10 @@ Timeout *${(timeout / 1000).toFixed(2)} second*
 Type ${usedPrefix}teko For help
 `.trim()
     conn.tebakkota[id] = [
-        await conn.sendButton(m.chat, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', '.teko', m),
+        await conn.sendButton(m.chat, caption, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Help', '.teko', m),
         json, poin,
         setTimeout(async () => {
-            if (conn.tebakkota[id]) await conn.sendButton(m.chat, `Time runs out! \ The answer is *${json.jawaban}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess the city', '.tebakkota', conn.tebakkota[id][0])
+            if (conn.tebakkota[id]) await conn.sendButton(m.chat, `Time runs out! \ The answer is *${json.jawaban}*`, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Guess the city', '.tebakkota', conn.tebakkota[id][0])
             delete conn.tebakkota[id]
         }, timeout)
     ]
