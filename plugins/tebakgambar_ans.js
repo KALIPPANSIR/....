@@ -13,7 +13,7 @@ handler.before = async function (m) {
     if (['.hint', ''].includes(m.text)) return !0
     if (m.text.toLowerCase() == json.jawaban.toLowerCase()) {
       db.data.users[m.sender].exp += this.tebakgambar[id][2]
-      await this.sendButton(m.chat, benar + ` +${this.tebakgambar[id][2]} XP`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess the picture', '.tebakgambar', m)
+      await this.sendButton(m.chat, benar + ` +${this.tebakgambar[id][2]} XP`, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Guess the picture', '.tebakgambar', m)
       clearTimeout(this.tebakgambar[id][3])
       delete this.tebakgambar[id]
     } else if (similarity(m.text.toLowerCase(), json.jawaban.toLowerCase().trim()) >= threshold) m.reply(dikit)
