@@ -18,10 +18,10 @@ Type ${usedPrefix}teki For help
 Bonus: ${poin} XP
 `.trim()
     conn.tebakkimia[id] = [
-        await conn.sendButton(m.chat, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', '.teki', m),
+        await conn.sendButton(m.chat, caption, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ', 'Help', '.teki', m),
         json, poin,
         setTimeout(() => {
-            if (conn.tebakkimia[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is *${json.unsur}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess Chemistry', '.tebakkimia', conn.tebakkimia[id][0])
+            if (conn.tebakkimia[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is *${json.unsur}*`, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Guess Chemistry', '.tebakkimia', conn.tebakkimia[id][0])
             delete conn.tebakkimia[id]
         }, timeout)
     ]
