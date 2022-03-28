@@ -17,10 +17,10 @@ Timeout *${(timeout / 1000).toFixed(2)} second*
 Type ${usedPrefix}who for help
 `.trim()
     conn.siapakahaku[id] = [
-        await conn.sendButton(m.chat, caption, '© ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', '.who', m),
+        await conn.sendButton(m.chat, caption, '© ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Help', '.who', m),
         json, poin,
         setTimeout(() => {
-            if (conn.siapakahaku[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is*${json.jawaban}*`, '© ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Who am I', '.siapaaku', conn.siapakahaku[id][0])
+            if (conn.siapakahaku[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is*${json.jawaban}*`, '© ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Who am I', '.siapaaku', conn.siapakahaku[id][0])
             delete conn.siapakahaku[id]
         }, timeout)
     ]
