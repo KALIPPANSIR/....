@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
   if (!res.ok) throw eror
   let json = await res.json()
   if (!json.url) throw 'Error!'
-  conn.sendFile(m.chat, json.url, '', 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', m, 0, { thumbnail: await (await fetch(json.url)).buffer() })
+  conn.sendFile(m.chat, json.url, '', 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', m, 0, { thumbnail: await (await fetch(json.url)).buffer() })
 }
 handler.help = ['neko']
 handler.tags = ['internet']
