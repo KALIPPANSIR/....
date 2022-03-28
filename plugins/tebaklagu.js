@@ -21,7 +21,7 @@ Timeout *${(timeout / 1000).toFixed(2)} Seconds*
 Type *${usedPrefix}cek* for help
 Bonus: ${poin} XP`.trim()
     conn.tebaklagu[id] = [
-        await conn.sendButton(m.chat, caption, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', `.cek`, m),
+        await conn.sendButton(m.chat, caption, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Help', `.cek`, m),
         json, poin,
         setTimeout(() => {
             if (conn.tebaklagu[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is *${json.judul}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Guess the Song', `.tebaklagu`, conn.tebaklagu[id][0])
