@@ -19,7 +19,7 @@ Timeout *${(timeout / 1000).toFixed(2)} second*
 Type ${usedPrefix}suka for help
 `.trim()
     conn.susunkata[id] = [
-        await conn.sendButton(m.chat, caption, '© ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Help', '.suka', m),
+        await conn.sendButton(m.chat, caption, '© ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Help', '.suka', m),
         json, poin,
         setTimeout(() => {
             if (conn.susunkata[id]) conn.sendButton(m.chat, `Time is up!\nThe answer is *${json.jawaban}*`, '© ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Arrange Words', '.susunkata', conn.susunkata[id][0])
