@@ -38,8 +38,8 @@ ${arr.slice(6).join('')}
 Waiting @${room.game.currentTurn.split('@')[0]}
 Type *nyerah* to give up
 `.trim()
-            if (room.x !== room.o) await conn.sendButton(room.x, str, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Give up', '.nyerah', m)
-            await conn.sendButton(room.o, str, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Give up', '.nyerah', m)
+            if (room.x !== room.o) await conn.sendButton(room.x, str, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Give up', '.nyerah', m)
+            await conn.sendButton(room.o, str, 'ᴀᴘᴀʀɴᴀ ᴍᴡᴏʟ ᴠ2', 'Give up', '.nyerah', m)
         } else {
             room = {
                 id: 'tictactoe-' + (+new Date),
